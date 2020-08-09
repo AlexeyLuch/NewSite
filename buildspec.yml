@@ -22,7 +22,6 @@ artifacts:
     - 'helloworld/**/*'
     - 'scripts/**/*'
     - 'poll/**/*'
-    - 'chat_channel/**/*'
     - 'appspec.yml'
     - 'manage.py'
     - 'requirements/**/*'

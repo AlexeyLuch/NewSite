@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'bootstrap3',
     'bootstrapform',
     'channels',
-    'chat_channel',
     'ref_pages',
 
 
