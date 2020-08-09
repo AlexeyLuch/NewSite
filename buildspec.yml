@@ -21,6 +21,7 @@ artifacts:
     - 'ec2django/**/*'
     - 'helloworld/**/*'
     - 'scripts/**/*'
+    - 'poll/**/*'
     - 'appspec.yml'
     - 'manage.py'
     - 'requirements/**/*'
