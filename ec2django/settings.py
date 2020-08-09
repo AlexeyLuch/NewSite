@@ -25,8 +25,7 @@ SECRET_KEY = 'of*5zu8%cbg$elkqrvkkdujfi^j604nn!x91*uyb__0eondq9='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['*']
 TEMPLATE_DIRS = (
     os.path.join(BASE_DIR, 'templates'),
 )
