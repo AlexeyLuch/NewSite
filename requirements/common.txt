@@ -11,5 +11,5 @@ django-jet==1.0.8
 django-bootstrap-form==3.4
 requests==2.22.0
 channels-redis==2.3.2
-tensorflow==1.14.0
+tensorflow
 numpy==1.17.4
