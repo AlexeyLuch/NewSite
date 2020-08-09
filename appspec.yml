@@ -7,9 +7,9 @@ files:
    destination: /home/ec2-user/helloworld
  - source: /poll/
    destination: /home/ec2-user/poll
- - source: /poll/
-   destination: /home/ec2-user/chat_channel
  - source: /chat_channel/
+   destination: /home/ec2-user/chat_channel
+ - source: /manage.py
    destination: /home/ec2-user
  - source: /supervisord.conf
    destination: /home/ec2-user
