@@ -1,4 +1,3 @@
-tensorflow==1.14.0
 redis
 nltk==3.4.5
 numpy==1.17.4
