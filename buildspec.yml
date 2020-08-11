@@ -20,7 +20,7 @@ artifacts:
     - 'template.yml'
     - 'ec2django/**/*'
     - 'scripts/**/*'
-#    - 'poll/**/*'
+    - 'chat_channel/**/*'
     - 'appspec.yml'
     - 'manage.py'
     - 'requirements/**/*'
