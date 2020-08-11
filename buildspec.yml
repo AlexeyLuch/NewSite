@@ -19,7 +19,6 @@ artifacts:
   files:
     - 'template.yml'
     - 'ec2django/**/*'
-    - 'helloworld/**/*'
     - 'scripts/**/*'
     - 'poll/**/*'
     - 'appspec.yml'
